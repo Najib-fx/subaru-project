@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+    background-size: cover;
+    color: white;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    list-style: none;
+    text-decoration: none;
+    background-color: lightslategray;
+    color: white;
+    float: left;
+
+}
+nav ul li {
+    list-style: none;
+    text-decoration: none;
+    float: left;
+    padding: 20px 40px;
+}
+img {
+    float: left;
+    width: 500px;
+    height: 300px;
+    border: 5px solid black;
+    margin-right: 20px;
+    border-radius: 40px;
+}
+
+
+nav {
+    word-spacing: 4px;
+    padding: 10px;
+    background: gray;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+    letter-spacing: 4px;
+    word-spacing: 5px;
+}
+
+a:hover {
+    background-color:limegreen ;
+
+}
